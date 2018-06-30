@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+
+    <resources>
+
+    <string name="app_name">Android Quiz App</string>
+
+
+    <!--EditTextView-->
+
+    <string name="name">Input Username</string>
+
+
+    <!-- Question One -->
+
+
+    <string name="question_one">1.  Whom to Launch World\'s Lightest Satellite recently?.</string>
+
+    <string name="question_one_option_a">A. HAL</string>
+
+    <string name="question_one_option_b">B. ISRO</string>
+
+    <string name="question_one_option_c">C. SpaceX</string>
+
+    <string name="question_one_option_d">D. NASA</string>
+
+
+    <!-- Question Two -->
+
+
+    <string name="question_two">2. which of these languages can be used for desktop application/.</string>
+
+    <string name="question_two_option_a">A. SWIFT</string>
+
+    <string name="question_two_option_b">B. Ruby on rails</string>
+
+    <string name="question_two_option_c">C. C#</string>
+
+    <string name="question_two_option_d">D. PHP</string>
+
+
+
+    <!-- Question Three -->
+
+
+    <string name="question_three">3. Who is the founder of udacity.</string>
+
+    <string name="question_three_option_a">A. mark zuckerberg</string>
+
+    <string name="question_three_option_b">B. sebastian thrun</string>
+
+    <string name="question_three_option_c">C. larry page</string>
+
+    <string name="question_three_option_d">D. bill gates</string>
+
+
+    <!-- Question Four -->
+
+
+    <string name="question_four">4. The researchers from this country has developed the world\'s smallest computer Michigan Micro Mote?.</string>
+
+    <string name="question_four_option_a">A. USA</string>
+
+    <string name="question_four_option_b">B. China</string>
+
+    <string name="question_four_option_c">C. Japan</string>
+
+    <string name="question_four_option_d">D. Germany</string>
+
+
+    <!-- Question Five -->
+
+
+    <string name="question_five">5.  Who is the World\'s LARGEST country by land mass?.</string>
+
+    <string name="question_five_option_a">A. Europe</string>
+
+    <string name="question_five_option_b">B. Africa</string>
+
+    <string name="question_five_option_c">C. South america</string>
+
+    <string name="question_five_option_d">D. Australia</string>
+
+
+    <!--Score TextView-->
+
+
+    <string name="score_text">Score</string>
+
+    <string name="score">0</string>
+
+    <!--Submit Button-->
+
+
+    <string name="submit">Submit</string>
+
+</resources>
