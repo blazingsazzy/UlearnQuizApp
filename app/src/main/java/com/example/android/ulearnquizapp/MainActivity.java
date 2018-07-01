@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Check which radio button was clicked
         switch(view.getId()) {
-            case R.id.question_one_option_c:
+            case R.id.question_two_option_c:
                 if (checked)
                     score = score + 1;
                 break;
@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Check which radio button was clicked
         switch(view.getId()) {
-            case R.id.question_one_option_b:
+            case R.id.question_three_option_b:
                 if (checked)
                     score = score + 1;
                 break;
@@ -78,7 +78,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Check which radio button was clicked
         switch(view.getId()) {
-            case R.id.question_one_option_a:
+            case R.id.question_four_option_a:
                 if (checked)
                     score = score + 1;
                 break;
@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Check which radio button was clicked
         switch(view.getId()) {
-            case R.id.question_one_option_d:
+            case R.id.question_five_option_d:
                 if (checked)
                     score = score + 1;
                 break;
